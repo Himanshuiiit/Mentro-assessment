@@ -1,6 +1,6 @@
-## This is an assessment project for Frontend intern role at mentro
+# This is an assessment project for Frontend intern role at mentro
 
-###ScreenShots
+##ScreenShots
 ![Screenshot 2023-03-09 194750](https://user-images.githubusercontent.com/76449638/224052548-ee41afe6-8772-4018-b80b-8df10d4689da.png)
 ![Screenshot 2023-03-09 194740](https://user-images.githubusercontent.com/76449638/224052563-339c3685-3d21-41cd-8900-56bf85b3808d.png)
 
