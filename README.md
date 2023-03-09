@@ -1,4 +1,5 @@
 # This is an assessment project for Frontend intern role at mentro
+Deployed link : https://main--poetic-twilight-4c19f3.netlify.app/
 
 #ScreenShots
 ![Screenshot 2023-03-09 194750](https://user-images.githubusercontent.com/76449638/224052548-ee41afe6-8772-4018-b80b-8df10d4689da.png)
